@@ -282,11 +282,11 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   background: url("https://images.pexels.com/photos/8963719/pexels-photo-8963719.jpeg?cs=srgb&dl=pexels-valeria-boltneva-8963719.jpg&fm=jpg") top right no-repeat;
   background-size: cover;
-  position: relative;
+  position:relative;
 }
 
 @media (min-width: 992px) {
